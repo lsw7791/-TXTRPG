@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ztQXfNnzCNUnRw4WfSZBQ5CMyqerpsf/3qwJIERhdtCw0miLlmecTMhPd5N9X5KLX4Ods7v6GY5al8p0aZXyw==",
+  "success": true,
+  "projectFilePath": "/Users/t2024-m0163/Projects/개인과제/개인과제/개인과제.csproj",
+  "expectedPackageFiles": [
+    "/Users/t2024-m0163/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/t2024-m0163/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/t2024-m0163/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

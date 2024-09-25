@@ -1,0 +1,15 @@
+/Users/t2024-m0163/Projects/개인과제/개인과제/bin/Debug/net6.0/개인과제
+/Users/t2024-m0163/Projects/개인과제/개인과제/bin/Debug/net6.0/개인과제.deps.json
+/Users/t2024-m0163/Projects/개인과제/개인과제/bin/Debug/net6.0/개인과제.runtimeconfig.json
+/Users/t2024-m0163/Projects/개인과제/개인과제/bin/Debug/net6.0/개인과제.dll
+/Users/t2024-m0163/Projects/개인과제/개인과제/bin/Debug/net6.0/개인과제.pdb
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.csproj.AssemblyReference.cache
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.AssemblyInfoInputs.cache
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.AssemblyInfo.cs
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.csproj.CoreCompileInputs.cache
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.dll
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/refint/개인과제.dll
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.pdb
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/개인과제.genruntimeconfig.cache
+/Users/t2024-m0163/Projects/개인과제/개인과제/obj/Debug/net6.0/ref/개인과제.dll
